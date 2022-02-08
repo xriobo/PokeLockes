@@ -1,115 +1,94 @@
-[
-  {
-    "id": 1,
-    "generation": 4,
-    "details": "diamond/pearl",
-    "initialDate": "2022-02-05",
-    "maxLvl": 22,
-    "participants": [
-      {
+[{
         "id": 1,
-        "trainer": "YAGO",
-        "poks": [ "Psyduck", "Raticate", "Makuhita", "Slowpoke", "Staravia", "Magnezone" ]
-      },
-      {
+        "generation": 4,
+        "details": "diamond/pearl",
+        "initialDate": "2022-02-05",
+        "maxLvl": 22,
+        "participants": [{
+                "id": 1,
+                "trainer": "YAGO",
+                "poks": ["Psyduck", "Raticate", "Makuhita", "Slowpoke", "Staravia", "Magnezone"]
+            }, {
+                "id": 2,
+                "trainer": "IBAI",
+                "poks": ["Kirlia", "Butterfree", "Kricketune", "Goldeen", "Flaaffy", "Sandslash"]
+            }, {
+                "id": 3,
+                "trainer": "MARCOS",
+                "poks": ["Poliwrath", "Dratini", "Magnemite", "Grotle", "Mawile", "Lucario"]
+            }, {
+                "id": 4,
+                "trainer": "VELON",
+                "poks": ["Ariados", "Togetic", "Luxio", "Graveler", "Ludicolo", "Cubone"]
+            }, {
+                "id": 5,
+                "trainer": "ANDRES",
+                "poks": ["Infernape", "Pikachu", "Lombre", "Geodude", "Gyarados", "Wartortle"]
+            }, {
+                "id": 6,
+                "trainer": "VARO",
+                "poks": ["Pikachu", "Staravia", "Linoone", "Sudowoodo", "Beedrill", "Skiploom"]
+            }, {
+                "id": 7,
+                "trainer": "KOSKY",
+                "poks": ["Numel", "Bibarel", "Machoke", "Staravia", "Mr. Mime", "Mightyena"]
+            }, {
+                "id": 8,
+                "trainer": "CESAR",
+                "poks": ["Marshtomp", "Gyarados", "Charmeleon", "Vibrava", "Mightyena", "Machamp"]
+            }, {
+                "id": 9,
+                "trainer": "PAZ",
+                "poks": ["Shellder", "Lombre", "Dustox", "Lucario", "Ninetales", "Luxray"]
+            }, {
+                "id": 10,
+                "trainer": "XABI",
+                "poks": ["Bayleef", "Shinx", "Quagsire", "Dratini", "Houndour", "Seadra"]
+            }
+        ]
+    }, {
         "id": 2,
-        "trainer": "IBAI",
-        "poks": [ "Kirlia", "Butterfree", "Kricketune", "Goldeen", "Flaaffy", "Sandslash" ]
-      },
-      {
-        "id": 3,
-        "trainer": "MARCOS",
-        "poks": [ "Poliwrath", "Dratini", "Magnemite", "Grotle", "Mawile", "Lucario" ]
-      },
-      {
-        "id": 4,
-        "trainer": "VELON",
-        "poks": [ "Ariados", "Togetic", "Luxio", "Graveler", "Ludicolo", "Cubone" ]
-      },
-      {
-        "id": 5,
-        "trainer": "ANDRES",
-        "poks": [ "Infernape", "Pikachu", "Lombre", "Geodude", "Gyarados", "Wartortle" ]
-      },
-      {
-        "id": 6,
-        "trainer": "VARO",
-        "poks": [ "Pikachu", "Staravia", "Linoone", "Sudowoodo", "Beedrill", "Skiploom" ]
-      },
-      {
-        "id": 7,
-        "trainer": "KOSKY",
-        "poks": [ "Numel", "Bibarel", "Machoke", "Staravia", "Mr. Mime", "Mightyena" ]
-      },
-      {
-        "id": 8,
-        "trainer": "CESAR",
-        "poks": [ "Marshtomp", "Gyarados", "Charmeleon", "Vibrava", "Mightyena", "Machamp" ]
-      },
-      {
-        "id": 9,
-        "trainer": "PAZ",
-        "poks": [ "Shellder", "Lombre", "Dustox", "Lucario", "Ninetales", "Luxray" ]
-      },
-      {
-        "id": 10,
-        "trainer": "XABI",
-        "poks": [ "Bayleef", "Shinx", "Quagsire", "Dratini", "Houndour", "Seadra" ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "generation": 4,
-    "details": "diamond/pearl",
-    "initialDate": "2022-02-09",
-    "maxLvl": 30,
-    "participants": [
-      {
-        "id": 1,
-        "trainer": "YAGO",
-        "poks": [ "Psyduck", "Raticate", "Makuhita", "Slowpoke", "Staravia", "Magnezone" ]
-      },
-      {
-        "id": 2,
-        "trainer": "IBAI",
-        "poks": [ "Kirlia", "Butterfree", "Kricketune", "Goldeen", "Flaaffy", "Sandslash" ]
-      },
-      {
-        "id": 3,
-        "trainer": "MARCOS",
-        "poks": [ "Poliwrath", "Dratini", "Magnemite", "Grotle", "Mawile", "Lucario" ]
-      },
-      {
-        "id": 4,
-        "trainer": "VELON",
-        "poks": [ "Snorlax", "Togekiss", "Ledian", "Infernape", "Azumarill", "Gardevoir" ]
-      },
-      {
-        "id": 6,
-        "trainer": "VARO",
-        "poks": [ "Pikachu", "Staravia", "Linoone", "Sudowoodo", "Beedrill", "Skiploom" ]
-      },
-      {
-        "id": 7,
-        "trainer": "KOSKY",
-        "poks": [ "Numel", "Bibarel", "Machoke", "Staravia", "Mr. Mime", "Mightyena" ]
-      },
-      {
-        "id": 8,
-        "trainer": "CESAR",
-        "poks": [ "Marshtomp", "Gyarados", "Charmeleon", "Vibrava", "Mightyena", "Machamp" ]
-      },
-      {
-        "id": 9,
-        "trainer": "PAZ",
-        "poks": [ "Shellder", "Lombre", "Dustox", "Lucario", "Ninetales", "Luxray" ]
-      },
-      {
-        "id": 10,
-        "poks": [ "Houndoom", "Quagsire", "Luxray", "Seadra", "Grovyle", "Seadra" ]
-        "trainer": "XABI",
-      }
-    ]
-  }
+        "generation": 4,
+        "details": "diamond/pearl",
+        "initialDate": "2022-02-09",
+        "maxLvl": 30,
+        "participants": [{
+                "id": 1,
+                "trainer": "YAGO",
+                "poks": ["Psyduck", "Raticate", "Makuhita", "Slowpoke", "Staravia", "Magnezone"]
+            }, {
+                "id": 2,
+                "trainer": "IBAI",
+                "poks": ["Kirlia", "Butterfree", "Kricketune", "Goldeen", "Flaaffy", "Sandslash"]
+            }, {
+                "id": 3,
+                "trainer": "MARCOS",
+                "poks": ["Poliwrath", "Dratini", "Magnemite", "Grotle", "Mawile", "Lucario"]
+            }, {
+                "id": 4,
+                "trainer": "VELON",
+                "poks": ["Snorlax", "Togekiss", "Ledian", "Infernape", "Azumarill", "Gardevoir"]
+            }, {
+                "id": 6,
+                "trainer": "VARO",
+                "poks": ["Pikachu", "Staravia", "Linoone", "Sudowoodo", "Beedrill", "Skiploom"]
+            }, {
+                "id": 7,
+                "trainer": "KOSKY",
+                "poks": ["Numel", "Bibarel", "Machoke", "Staravia", "Mr. Mime", "Mightyena"]
+            }, {
+                "id": 8,
+                "trainer": "CESAR",
+                "poks": ["Marshtomp", "Gyarados", "Charmeleon", "Vibrava", "Mightyena", "Machamp"]
+            }, {
+                "id": 9,
+                "trainer": "PAZ",
+                "poks": ["Shellder", "Lombre", "Dustox", "Lucario", "Ninetales", "Luxray"]
+            }, {
+                "id": 10,
+                "trainer": "XABI",
+                "poks": ["Houndoom", "Quagsire", "Luxray", "Seadra", "Grovyle", "Seadra"]
+            }
+        ]
+    }
 ]
