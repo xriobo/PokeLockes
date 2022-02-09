@@ -63,7 +63,7 @@
             }, {
                 "id": 3,
                 "trainer": "MARCOS",
-                "poks": ["Poliwrath", "Dratini", "Magnemite", "Grotle", "Mawile", "Lucario"]
+                "poks": ["Huntail", "Slowking", "Ludicolo", "Grotle", "Haunter", "Lucario"]
             }, {
                 "id": 4,
                 "trainer": "VELON",
@@ -83,7 +83,7 @@
             }, {
                 "id": 9,
                 "trainer": "PAZ",
-                "poks": ["Shellder", "Lombre", "Dustox", "Lucario", "Ninetales", "Luxray"]
+                "poks": ["Whiscash", "Lucario", "Crobat", "Luxray", "Electrode", "Ursaring"]
             }, {
                 "id": 10,
                 "trainer": "XABI",
