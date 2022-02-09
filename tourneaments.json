@@ -55,7 +55,7 @@
         "participants": [{
                 "id": 1,
                 "trainer": "YAGO",
-                "poks": ["Psyduck", "Raticate", "Makuhita", "Slowpoke", "Staravia", "Magnezone"]
+                "poks": ["Forretress", "Feraligatr", "Nidoking", "Roserade", "Staravia", "Magnezone"]
             }, {
                 "id": 2,
                 "trainer": "IBAI",
@@ -79,7 +79,7 @@
             }, {
                 "id": 8,
                 "trainer": "CESAR",
-                "poks": ["Marshtomp", "Gyarados", "Charmeleon", "Vibrava", "Mightyena", "Machamp"]
+                "poks": ["Marshtomp", "Gyarados", "Charmeleon", "Luxray", "Mightyena", "Machamp"]
             }, {
                 "id": 9,
                 "trainer": "PAZ",
