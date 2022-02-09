@@ -59,7 +59,7 @@
             }, {
                 "id": 2,
                 "trainer": "IBAI",
-                "poks": ["Kirlia", "Butterfree", "Kricketune", "Goldeen", "Flaaffy", "Sandslash"]
+                "poks": ["Mankey", "Slugma", "Dustox", "Ampharos", "Onix", "Wartortle"]
             }, {
                 "id": 3,
                 "trainer": "MARCOS",
@@ -67,11 +67,11 @@
             }, {
                 "id": 4,
                 "trainer": "VELON",
-                "poks": ["Snorlax", "Togekiss", "Ledian", "Infernape", "Azumarill", "Gardevoir"]
+                "poks": ["Snorlax", "Togekiss", "Ledian", "Infernape", "Azumarill", "Honchkrow"]
             }, {
                 "id": 6,
                 "trainer": "VARO",
-                "poks": ["Pikachu", "Staravia", "Linoone", "Sudowoodo", "Beedrill", "Skiploom"]
+                "poks": ["Milotic", "Jynx", "Hitmonlee", "Froslass", "Lanturn", "Skiploom"]
             }, {
                 "id": 7,
                 "trainer": "KOSKY",
@@ -87,7 +87,7 @@
             }, {
                 "id": 10,
                 "trainer": "XABI",
-                "poks": ["Houndoom", "Quagsire", "Luxray", "Seadra", "Grovyle", "Seadra"]
+                "poks": ["Houndoom", "Quagsire", "Luxray", "Seadra", "Grovyle", "Seviper"]
             }
         ]
     }
